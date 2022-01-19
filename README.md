@@ -30,10 +30,10 @@ This is a repository of notes and documentation from my participation in Harvard
 ### Lecture 3: Algorithms
 
 | Category   | Name                                                                                                                             | Language   |
-| ---------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | Notes      | [TXT File - Notes](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/lecture_3/notes/lecture_3.txt) | C Language |
 | Assignment | [Plurality](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/lecture_3/plurality/plurality.c)      | C Language |
-| Assignment | [Runoff](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/lecture_3/runoff/runoff.c)               | C Language | [Submission Results](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/lecture_3/results/check50_runoff/submission.png) |
+| Assignment | [Runoff](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/lecture_3/runoff/runoff.c)               | C Language |
 | Assignment | [Tideman](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/lecture_3/tideman/tideman.c)            | C Language |
 
 ### Lecture 4: Memory
