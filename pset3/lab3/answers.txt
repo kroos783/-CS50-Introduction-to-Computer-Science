@@ -1,0 +1,51 @@
+sort1 uses: bubble sort
+
+How do you know?: if data is already sorted, bubble sort can break quickly recursion.
+
+random5000.txt = 0.060s
+random10000.txt = 0.547s
+random50000.txt = 16.570s
+
+reversed5000.txt = 0.077s
+reversed10000.txt = 0.442s
+reversed50000.txt = 13.155s
+
+sorted5000.txt = 0.010s
+sorted10000.txt = 0.021s
+sorted50000.txt = 3.881s
+
+--------------------------------
+
+sort2 uses: merge sort
+
+How do you know?: merge sort must check and sort each data. If datas is unsorted, this is the best solution. 0therwise in best case he use oméga(n log n) and in worst case big 0(n log n). So he run the same time
+
+random5000.txt = 0.016s
+random10000.txt = 0.360s
+random50000.txt = 3.840s
+
+reversed5000.txt 0.013s
+reversed10000.txt = 0.027s
+reversed50000.txt = 4.325s
+
+sorted5000.txt = 0.016s
+sorted10000.txt = 0.021s
+sorted50000.txt = 3.779s
+
+--------------------------------
+
+sort3 uses: selection sort
+
+How do you know?: linear sort must check each data even if is it sorted. Linear sort use n² for big O and oméga
+
+random5000.txt = 0.076s
+random10000.txt = 0.487s
+random50000.txt = 8.254s
+
+reversed5000.txt = 0.071s
+reversed10000.txt = 0.167s
+reversed50000.txt = 9.788s
+
+sorted5000.txt = 0.035s
+sorted10000.txt = 0.186s
+sorted50000.txt = 8.779s

@@ -1,0 +1,17 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Add cash
+{% endblock %}
+
+{% block main %}
+
+<h>Add cash in balance</h>
+    <form action="/addcash" method="post">
+         <div class="form-group">
+            <input autocomplete="off" autofocus class="form-control" name="addcash" placeholder="How many $ you want ?" min="1" type="number" oninput="validity.valid||(value='');">
+        </div>
+        <button class="btn btn-primary" type="submit">Add cash now</button>
+    </form>
+
+{% endblock %}
