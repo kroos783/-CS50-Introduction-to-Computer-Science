@@ -4,9 +4,9 @@ This is a repository of notes and documentation from my participation in Harvard
 
 ### Lecture 0: Scratch
 
-| Category   | Name                                                                |         | Language |
-| ---------- | ------------------------------------------------------------------- | ------- | -------- |
-| Assignment | [100 Seconds in Space](https://scratch.mit.edu/projects/400619243/) | Scratch |
+| Category   | Name                                                                | Language |
+| ---------- | ------------------------------------------------------------------- | -------- |
+| Assignment | [100 Seconds in Space](https://scratch.mit.edu/projects/400619243/) | Scratch  |
 
 ### Lecture 1: C Programming Language
 
