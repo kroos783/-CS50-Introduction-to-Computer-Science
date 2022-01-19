@@ -10,8 +10,8 @@ This is a repository of notes and documentation from my participation in Harvard
 
 ### Lecture 1: C Programming Language
 
-| Category   | Name                                                                                                              | Language   | Grade |
-| ---------- | ----------------------------------------------------------------------------------------------------------------- | ---------- | ----- |
+| Category   | Name                                                                                                              | Language   | 
+| ---------- | ----------------------------------------------------------------------------------------------------------------- | ---------- | 
 | Assignment | [Hello.c](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/pset1/hello)             | C Language |
 | Assignment | [Cash.c](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/pset1/cash)               | C Language |
 | Assignment | [Credit.c](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/pset1/credit)           | C Language |
@@ -20,8 +20,8 @@ This is a repository of notes and documentation from my participation in Harvard
 
 ### Lecture 2: Arrays
 
-| Category   | Name                                                                                                                                    | Language   | Grade |
-| ---------- | --------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----- |
+| Category   | Name                                                                                                                                    | Language   |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------- | ---------- | 
 | Notes      | [TXT File - Notes](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/lecture_2/notes/lecture_2_shorts.txt) | C Language |
 | Assignment | [Readability](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/lecture_2/readability/readability.c)       | C Language |
 | Assignment | [Caesar](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/lecture_2/caesar/caesar.c)                      | C Language |
