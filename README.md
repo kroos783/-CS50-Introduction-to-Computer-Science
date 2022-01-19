@@ -72,14 +72,14 @@ This is a repository of notes and documentation from my participation in Harvard
 | Assignment | [fiftyville](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/pset7/fiftyville) | SQL          |
 | Assignment | [movies](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/pset7/movies)         | Python & SQL |
 
-### Lecture 8: Information ==> Algorithmic Precision
+### Lecture 8: HTML, CSS, JavaScript
 
 | Category   | Name                                                                                                      | Language |
 | ---------- | --------------------------------------------------------------------------------------------------------- | -------- |
 | Assignment | [lab8](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/pset8/lab8)         | HTML/CSS |
 | Assignment | [homepage](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/pset8/homepage) | HTML/CSS |
 
-### Lecture 9: Introduction framework Flask
+### Lecture 9: Flask
 
 | Category   | Name                                                                                                    | Language       |
 | ---------- | ------------------------------------------------------------------------------------------------------- | -------------- |
