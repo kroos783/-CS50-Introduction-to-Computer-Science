@@ -17,82 +17,77 @@ This is a repository of notes and documentation from my participation in Harvard
 | Assignment | [Credit.c](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/pset1/credit)           | C Language |
 | Assignment | [Mario.c (Beginner)](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/pset1/mario)  | C Language |
 | Assignment | [Mario.c (Advanced)](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/pset1/mario2) | C Language |
+| Assignment | [Population.c](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/pset1/population)   | C Language |
 
 ### Lecture 2: Arrays
 
-| Category   | Name                                                                                                                                    | Language   |
-| ---------- | --------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| Notes      | [TXT File - Notes](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/lecture_2/notes/lecture_2_shorts.txt) | C Language |
-| Assignment | [Readability](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/lecture_2/readability/readability.c)       | C Language |
-| Assignment | [Caesar](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/lecture_2/caesar/caesar.c)                      | C Language |
-| Assignment | [Substitution](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/lecture_2/substitution/substitution.c)    | C Language |
+| Category   | Name                                                                                                            | Language   |
+| ---------- | --------------------------------------------------------------------------------------------------------------- | ---------- |
+| Assignment | [Readability](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/pset2/readability) | C Language |
+| Assignment | [Caesar](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/pset2/caesar)           | C Language |
+| Assignment | [Substitution](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/pset2/scrabble)   | C Language |
 
 ### Lecture 3: Algorithms
 
-| Category   | Name                                                                                                                             | Language   |
-| ---------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| Notes      | [TXT File - Notes](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/lecture_3/notes/lecture_3.txt) | C Language |
-| Assignment | [Plurality](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/lecture_3/plurality/plurality.c)      | C Language |
-| Assignment | [Runoff](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/lecture_3/runoff/runoff.c)               | C Language |
-| Assignment | [Tideman](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/lecture_3/tideman/tideman.c)            | C Language |
+| Category   | Name                                                                                                        | Language   |
+| ---------- | ----------------------------------------------------------------------------------------------------------- | ---------- |
+| Assignment | [lab3](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/pset3/lab3)           | C Language |
+| Assignment | [Plurality](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/pset3/plurality) | C Language |
+| Assignment | [Runoff](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/pset3/runoff)       | C Language |
+| Assignment | [Tideman](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/pset3/tideman)     | C Language |
 
 ### Lecture 4: Memory
 
-| Category   | Name                                                                                                                                | Language   |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| Notes      | [TXT File - Notes](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/lecture_4/notes/lecture_4.txt)    | C Language |
-| Assignment | [Filter - Part 1](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/lecture_4/filter_part_1/helpers.c) | C Language |
-| Assignment | [Filter - Part 2](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/lecture_4/filter_part_2/helpers.c) | C Language |
-| Assignment | [Recover](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/lecture_4/recover/recover.c)               | C Language |
+| Category   | Name                                                                                                           | Language   |
+| ---------- | -------------------------------------------------------------------------------------------------------------- | ---------- |
+| Assignment | [Lab4](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/pset4/lab4)              | C Language |
+| Assignment | [Filter - Part 2](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/pset4/filter) | C Language |
+| Assignment | [Recover](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/pset4/recover)        | C Language |
 
 ### Lecture 5: Data Structures
 
-| Category   | Name                                                                                                                          | Language   |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| Notes      | [.C File - Notes](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/lecture_5/notes/lecture_5.c) | C Language |
-| Assignment | [Speller](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/lecture_5/speller/dictionary.c)      | C Language |
+| Category   | Name                                                                                                    | Language   |
+| ---------- | ------------------------------------------------------------------------------------------------------- | ---------- |
+| Assignment | [lab5](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/pset5/lab5)       | C Language |
+| Assignment | [Speller](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/pset5/speller) | C Language |
 
 ### Lecture 6: Python
 
-| Category   | Name                                                                                                                               | Language |
-| ---------- | ---------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| Notes      | [Python File - Notes](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/lecture_6/notes/lecture_6.py) | Python   |
-| Assignment | [Hello](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/lecture_6/hello/hello.py)                   | Python   |
-| Assignment | [Mario Part 1](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/lecture_6/mario1/mario.py)           | Python   |
-| Assignment | [Mario Part 2](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/lecture_6/mario2/mario.py)           | Python   |
-| Assignment | [Cash](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/lecture_6/cash/cash.py)                      | Python   |
-| Assignment | [Credit](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/lecture_6/credit/credit.py)                | Python   |
-| Assignment | [Readability](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/lecture_6/readability/readability.py) | Python   |
-| Assignment | [DNA](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/lecture_6/dna/dna.py)                         | Python   |
+| Category   | Name                                                                                                                  | Language |
+| ---------- | --------------------------------------------------------------------------------------------------------------------- | -------- |
+| Assignment | [lab6](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/pset6/lab6)                     | Python   |
+| Assignment | [Hello](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/pset6/pset6/hello)             | Python   |
+| Assignment | [Mario Part 1](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/pset6/pset6/mario)      | Python   |
+| Assignment | [Mario Part 2](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/pset6/pset6/mario2)     | Python   |
+| Assignment | [Cash](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/pset6/pset6/cash)               | Python   |
+| Assignment | [Credit](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/pset6/pset6/credit)           | Python   |
+| Assignment | [Readability](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/pset6/pset6/readability) | Python   |
+| Assignment | [DNA](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/pset6/pset6/dna)                 | Python   |
 
 ### Lecture 7: SQL
 
-| Category   | Name                                                                                                                                                                                                                                                                         | Language     |
-| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| Notes      | [TXT File - Notes](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/lecture_7/notes/lecture_7.txt)                                                                                                                                             | SQL          |
-| Assignment | [Movies - Question 1](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/lecture_7/movies/1.sql)                                                                                                                                                 | SQL          |
-| Assignment | [Movies - Question 2](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/lecture_7/movies/2.sql)                                                                                                                                                 | SQL          |
-| Assignment | [Movies - Question 3](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/lecture_7/movies/3.sql)                                                                                                                                                 | SQL          |
-| Assignment | [Movies - Question 4](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/lecture_7/movies/4.sql)                                                                                                                                                 | SQL          |
-| Assignment | [Movies - Question 5](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/lecture_7/movies/5.sql)                                                                                                                                                 | SQL          |
-| Assignment | [Movies - Question 6](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/lecture_7/movies/6.sql)                                                                                                                                                 | SQL          |
-| Assignment | [Movies - Question 7](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/lecture_7/movies/7.sql)                                                                                                                                                 | SQL          |
-| Assignment | [Movies - Question 8](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/lecture_7/movies/8.sql)                                                                                                                                                 | SQL          |
-| Assignment | [Movies - Question 9](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/lecture_7/movies/9.sql)                                                                                                                                                 | SQL          |
-| Assignment | [Movies - Question 10](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/lecture_7/movies/10.sql)                                                                                                                                               | SQL          |
-| Assignment | [Movies - Question 11](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/lecture_7/movies/11.sql)                                                                                                                                               | SQL          |
-| Assignment | [Movies - Question 12](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/lecture_7/movies/12.sql)                                                                                                                                               | SQL          |
-| Assignment | [Movies - Question 13](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/lecture_7/movies/13.sql)                                                                                                                                               | SQL          |
-| Assignment | [Houses (Create Database)](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/lecture_7/houses/import.py) - [Houses (Query Solution)](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/lecture_7/houses/roster.py) | Python & SQL |
+| Category   | Name                                                                                                          | Language     |
+| ---------- | ------------------------------------------------------------------------------------------------------------- | ------------ |
+| Assignment | [lab7](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/pset7/lab7)             | SQL          |
+| Assignment | [fiftyville](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/pset7/fiftyville) | SQL          |
+| Assignment | [movies](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/pset7/movies)         | Python & SQL |
 
 ### Lecture 8: Information ==> Algorithmic Precision
 
-| Category | Name                                                                                                                       | Language |
-| -------- | -------------------------------------------------------------------------------------------------------------------------- | -------- |
-| Notes    | [TXT File - Notes](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/lecture_8/lecture_8.txt) | N/A      |
+| Category   | Name                                                                                                      | Language |
+| ---------- | --------------------------------------------------------------------------------------------------------- | -------- |
+| Assignment | [lab8](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/pset8/lab8)         | HTML/CSS |
+| Assignment | [homepage](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/pset8/homepage) | HTML/CSS |
+
+### Lecture 9: Introduction framework Flask
+
+| Category   | Name                                                                                                    | Language       |
+| ---------- | ------------------------------------------------------------------------------------------------------- | -------------- |
+| Assignment | [lab9](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/pset9/lab9)       | FLASK/HTML/CSS |
+| Assignment | [finance](https://github.com/kroos783/-CS50-Introduction-to-Computer-Science/tree/master/pset9/finance) | FLASK/HTML/CSS |
 
 ### Final Project
 
-| Category      | Name                                           | Language                       | Link                                       |
-| ------------- | ---------------------------------------------- | ------------------------------ | ------------------------------------------ |
-| Final Project | [MiserMe](https://github.com/kroos783/MiserMe) | Python SQL HTML CSS JavaScript | [Video Demo](https://youtu.be/0HwxuUpiMC0) |
+| Category      | Name                                     | Language                       |
+| ------------- | ---------------------------------------- | ------------------------------ |
+| Final Project | [bld-devs](https://github.com/kroos783/) | Python SQL HTML CSS JavaScript |
